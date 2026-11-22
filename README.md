@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/RayuduBharani/LeetCode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/RayuduBharani/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0198-house-robber](https://github.com/RayuduBharani/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/RayuduBharani/LeetCode/tree/master/0213-house-robber-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RayuduBharani/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/RayuduBharani/LeetCode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/RayuduBharani/LeetCode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/RayuduBharani/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/RayuduBharani/LeetCode/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/RayuduBharani/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/RayuduBharani/LeetCode/tree/master/0213-house-robber-ii) |
@@ -52,4 +54,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/RayuduBharani/LeetCode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/RayuduBharani/LeetCode/tree/master/0064-minimum-path-sum) |
 <!---LeetCode Topics End-->
