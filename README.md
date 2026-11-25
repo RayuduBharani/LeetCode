@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/RayuduBharani/LeetCode/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/RayuduBharani/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/RayuduBharani/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RayuduBharani/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/RayuduBharani/LeetCode/tree/master/0055-jump-game) |
 | [0881-boats-to-save-people](https://github.com/RayuduBharani/LeetCode/tree/master/0881-boats-to-save-people) |
 ## Timsort
 |  |
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/RayuduBharani/LeetCode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/RayuduBharani/LeetCode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/RayuduBharani/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/RayuduBharani/LeetCode/tree/master/0064-minimum-path-sum) |
